@@ -1,0 +1,36 @@
+{
+  "best_model": "gradient_boosting",
+  "model_type": "GradientBoostingClassifier",
+  "results": {
+    "logistic_regression": {
+      "train_accuracy": 0.9340057636887608,
+      "test_accuracy": 0.9274193548387096,
+      "roc_auc": 0.9841743106809826
+    },
+    "random_forest": {
+      "train_accuracy": 0.999135446685879,
+      "test_accuracy": 0.9965437788018433,
+      "roc_auc": 0.9999131053434783
+    },
+    "gradient_boosting": {
+      "train_accuracy": 1.0,
+      "test_accuracy": 0.9988479262672811,
+      "roc_auc": 1.0
+    },
+    "svm": {
+      "train_accuracy": 0.9276657060518732,
+      "test_accuracy": 0.9170506912442397,
+      "roc_auc": 0.9765058572429413
+    },
+    "mlp_classifier": {
+      "train_accuracy": 0.9818443804034582,
+      "test_accuracy": 0.9815668202764977,
+      "roc_auc": 0.9967197267163052
+    },
+    "deep_neural_network": {
+      "train_accuracy": 0.9599423631123919,
+      "test_accuracy": 0.9550691244239631,
+      "roc_auc": 0.9927768816766323
+    }
+  }
+}

@@ -1,0 +1,44 @@
+# Data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# Data visualization (Plotly prioritized)
+plotly>=5.15.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+kaleido>=0.2.1  # For static image export in Plotly
+
+# Google Trends API
+pytrends>=4.9.0
+
+# Statistical analysis
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Model interpretability
+shap>=0.42.0
+lime>=0.2.0.1
+
+# Jupyter and development
+jupyter>=1.0.0
+ipykernel>=6.20.0
+nbformat>=5.7.0
+
+# Utilities
+tqdm>=4.64.0
+requests>=2.28.0
+
+# For Tableau export
+openpyxl>=3.1.0
+
+# Additional ML libraries
+imbalanced-learn>=0.11.0
+category-encoders>=2.6.0
+
+# Neural Networks
+tensorflow>=2.10.0

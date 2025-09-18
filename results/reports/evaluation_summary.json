@@ -1,0 +1,19 @@
+{
+  "model_name": "Random Forest",
+  "test_size": 868,
+  "accuracy": 0.9988479262672811,
+  "roc_auc": 0.9999945690839673,
+  "average_precision": 0.9999926756024318,
+  "confusion_matrix": {
+    "true_negatives": 499,
+    "false_positives": 0,
+    "false_negatives": 1,
+    "true_positives": 368
+  },
+  "class_distribution": {
+    "no_loyal": 499,
+    "loyal": 369
+  },
+  "borderline_cases": 4,
+  "confident_errors": 0
+}
