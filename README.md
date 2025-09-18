@@ -97,6 +97,7 @@ streamlit run demo_app.py
 
 ### Contacto
 
+**Autora:** Magda Monroy  
 Trabajo Final de Máster  
 Universidad Complutense de Madrid  
 Máster en Big Data, Data Science e Inteligencia Artificial
